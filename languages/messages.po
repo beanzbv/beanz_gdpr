@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-24 21:34+0100\n"
+"PO-Revision-Date: 2020-03-24 21:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: controller.php:37 controllers/single_page/dashboard/system/seo/gdpr.php:16
+#: controllers/single_page/dashboard/system/seo/gdpr.php:24
+#: controllers/single_page/dashboard/system/seo/gdpr.php:100
+msgid "GDPR"
+msgstr ""
+
+#: controller.php:42
+msgid "Add a GDPR Cookie Disclosure to your website"
+msgstr ""
+
+#: controller.php:139
+msgid "Cookies"
+msgstr ""
+
+#: controller.php:140
+msgid ""
+"This website uses cookies to optimise your experience. By continuing to surf "
+"on this website, you accept our privacy- and cookie policy. Click on "
+"<strong>Accept cookies</strong> to immediately continue to our website or "
+"click <strong>Customise cookies</strong> to change your preferences."
+msgstr ""
+
+#: controller.php:141
+msgid "Accept cookies"
+msgstr ""
+
+#: controller.php:142
+msgid "Customise cookies"
+msgstr ""
+
+#: controller.php:143
+msgid "More information"
+msgstr ""
+
+#: controller.php:144
+msgid "Select which cookies you want to accept"
+msgstr ""
+
+#: controller.php:145
+msgid "Essentials"
+msgstr ""
+
+#: controller.php:146
+msgid "These are cookies that are essential for the website to work correctly."
+msgstr ""
+
+#: controller.php:159
+msgid "Analytics"
+msgstr ""
+
+#: controller.php:159
+msgid "Cookies related to site visits, browser types, etc..."
+msgstr ""
+
+#: controller.php:163
+msgid "Marketing"
+msgstr ""
+
+#: controller.php:163
+msgid "Cookies related to marketing, e.g. newsletters, social media, etc..."
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:16
+#: single_pages/dashboard/system/seo/gdpr.php:107
+msgid "Cookie Types"
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:24
+#: single_pages/dashboard/system/seo/gdpr.php:133
+msgid "Cookie Type"
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:73
+#: single_pages/dashboard/system/seo/gdpr.php:142
+#: single_pages/dashboard/system/seo/gdpr.php:184
+#: single_pages/dashboard/system/seo/gdpr.php:240
+msgid "Name"
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:73
+#: controllers/single_page/dashboard/system/seo/gdpr.php:77
+#: controllers/single_page/dashboard/system/seo/gdpr.php:91
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:77
+#: single_pages/dashboard/system/seo/gdpr.php:147
+#: single_pages/dashboard/system/seo/gdpr.php:241
+msgid "Handle"
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:81
+msgid ""
+"Cookie Type handles may only contain letters, numbers and underscore \"_\" "
+"characters"
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:86
+#, php-format
+msgid "A Cookie Type with the handle %s already exists"
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:91
+#: single_pages/dashboard/system/seo/gdpr.php:152
+#: single_pages/dashboard/system/seo/gdpr.php:189
+msgid "Description"
+msgstr ""
+
+#: controllers/single_page/dashboard/system/seo/gdpr.php:100
+#: single_pages/dashboard/system/seo/gdpr.php:271
+msgid "General Settings"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:7
+msgid "GDPR default settings are saved successfully."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:13
+msgid "Default settings"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:23
+msgid "Privacy Policy"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:28
+msgid "Title"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:37
+msgid "Message"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:46
+msgid "Accept button"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:55
+msgid "Advanced button"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:64
+msgid "Cookie types"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:73
+msgid ""
+"There are a few cookies that Concrete5 sets automatically for the website to "
+"work correctly."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:74
+msgid ""
+"These cookies fall under the \"Fixed Cookie\" in the disclosure and visitors "
+"will not be able to deselect it."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:78
+msgid "Fixed cookie label"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:87
+msgid "Fixed cookie description"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:100
+#: single_pages/dashboard/system/seo/gdpr.php:202
+msgid "Save"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:115
+#, php-format
+msgid "Cookie type %s is successfully saved."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:121
+#, php-format
+msgid "Cookie type %s is successfully activated."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:127
+#, php-format
+msgid "Cookie type %s is successfully archived."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:137
+msgid ""
+"This Cookie Type is inactive. This option will not be shown in the cookie "
+"disclosure and the scripts will never be loaded."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:158
+#: single_pages/dashboard/system/seo/gdpr.php:167
+msgid "Scripts"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:161
+msgid "These scripts will be executed when the visitor accepted the cookies."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:162
+msgid "This is where you can put tracking codes, etc..."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:163
+msgid "Script-tags should not be present, and will be removed."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:175
+msgid "Translations"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:200
+msgid "Back to List"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:211
+msgid "Activate"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:215
+msgid "Archive"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:220
+#, php-format
+msgid "Are you sure you want to delete %s?"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:221
+msgid "Delete"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:230
+msgid "Cookie type is successfully deleted."
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:242
+#: single_pages/dashboard/system/seo/gdpr.php:253
+msgid "Active"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:257
+msgid "Archived"
+msgstr ""
+
+#: single_pages/dashboard/system/seo/gdpr.php:274
+msgid "Add Cookie Type"
+msgstr ""
